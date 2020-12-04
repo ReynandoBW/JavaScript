@@ -43,7 +43,7 @@
     }
     
     function selectThisImage(){
-        let index = randomizer(4);
+        let index = randomizer(3);
         myImage.src = plaatjes[index]; 
     }
     
